@@ -1,7 +1,4 @@
 <h1 align="center">:raised_hand: Hello! :grinning:</h1>
-<div id="banner" align="center">
-  <img src="./banner.png" align="center">
-</div>
 <h2 align="center">Welcome to my GitHub page!</h2>
 <div id="social_links" align="center">
   <a href="https://www.linkedin.com/in/vinioliveira-dev/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
