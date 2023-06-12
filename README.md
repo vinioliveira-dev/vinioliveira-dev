@@ -10,7 +10,6 @@
   <img src="./brent.gif" align="right" alt="meme gif" width="300px"/>
   <h3 align="left">About me:</h3>
   <ul align="left">
-    <li align="left">:globe_with_meridians: You can find all about me at my website: <a href="vinidev.tech">vinidev.tech</a></li>
     <li align="left">:briefcase: I'm currently working as a freelancer front-end web developer</li>
     <li align="left">:open_hands: I'm open to new work opportunities</li>
     <li align="left">:round_pushpin: Currently living in Amsterdam, NL</li>
