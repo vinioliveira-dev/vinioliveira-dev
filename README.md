@@ -34,5 +34,5 @@
 <br/>
 <div align = "center">
   <img align="left" height = "200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinioliveira-dev&show_icons=true&theme=merko&count_private=true"/>
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinioliveira-dev&show_icons=true&theme=merko&count_private=true&include_orgs=true"/>
+  <img height = "200px" src="https://github-readme-stats.vercel.app/api?username=vinioliveira-dev&show_icons=true&show_icons=true&theme=merko&count_private=true&include_orgs=true" />
 </div>
